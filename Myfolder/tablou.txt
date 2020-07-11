@@ -1,0 +1,4 @@
+Denumire ,       Pret  ,  Cantitate
+Ceai Tei	 / 4	 /65
+Ceai Negru	 / 5	 /41
+Ceai din Fructe  / 6	 /32
